@@ -1,0 +1,60 @@
+wbody{
+	background-color: #ccc;
+}
+.login{
+	background-color: #157DEC;
+	margin-right: 80%; 
+	width: 88%;
+	color: #fff;
+}
+#details{
+	width: 27%;
+	background-color: #FFF; 
+	box-shadow: 4px 4px 4px gray; 
+	margin-top: 3%; 
+}
+#details input{
+	width: 85%;
+	margin-left: 4%;
+	padding: 2%; 
+}
+#details button{
+	margin: 5% 15% 2% 15%;
+	background-color: coral;
+	color: #fff;
+	width: 24%; 
+	border:2px solid coral;
+	padding: 2%;
+}
+#details span{
+	color: green; 
+	font-size: 18px;
+}
+#paper{
+	background-color: #fff;
+	padding: 3%;
+	height: 250px;
+	box-shadow: 12px 12px 12px gray;
+}
+#paper input{
+	padding: 2%;
+	margin-top: 7%;
+	width: 80%;
+}
+.status {
+	width: 90%;
+	height: 80px;
+	background-color: #fff;
+	box-shadow: 12px 12px 12px gray;
+}
+footer{
+	font-size: 22px; 
+	margin-left: 5%;
+	 padding: 2%;
+}
+#details h2{
+	font-size: 20px; 
+	margin-left: 6%; 
+	padding: 2%; 
+	border-bottom: 3px solid black;
+}

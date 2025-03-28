@@ -1,0 +1,134 @@
+#cart{
+	background-color: #DAFFDE;
+	 width: 98%;
+	 display: flex;
+	 justify-content: space-between;
+	 font-size: 20px;
+	 font-family: tahoma;
+	 margin-left: 2%;
+}
+#cart input{
+	width: 87%;
+	border-radius: 7px;
+}
+.form {
+	width: 93%;
+	padding: 3%;
+	display: flex;
+	margin-left: 2%;
+	
+}
+.side{
+	width: 50%;
+	margin-left: 2%;
+}
+.form  h1{
+	font-size: 19px;
+}
+.form img{
+	width: 40%;
+}
+ button{
+	width: 30%;
+	border:2px solid #ccc;
+	border-radius: 15px;
+	box-shadow: 13px 13px 13px gray;
+}
+.side img{
+	width: 14%;
+}
+.form2{
+	display: flex;
+	justify-content: space-around;
+	margin-left: 1%;
+	width: 93%;
+}
+.form2 img{
+	width: 50%;
+}
+.beside{
+	width: 50%;
+}
+.beside h1{
+	font-size: 20px;
+}
+.beside img{
+	width: 15%;
+}
+#footer{
+	font-size: 20px;
+	font-weight: bold;
+	margin-left: 3%;
+	font-family: arial;
+}
+#footer button{
+	float: right;
+	font-size: 17px;
+	padding: 10px;
+	width: 12%;
+	background-color: coral;
+	color: #fff;
+}
+#footer button a{
+	color: #fff;
+	text-decoration: none;s
+}
+.form3{
+	display: flex;
+	width: 99%;
+}
+.form3 img{
+    width: 30%;
+    margin-left: 7%;
+}
+.Bside img{
+	width: 15%;
+	margin-right: 60%;
+}
+.Bside{
+	width: 50%;
+	margin-left: 9%;
+}
+.Bside h1{
+	font-size: 20px;
+}
+.form4{
+	display: flex;
+	
+}
+.form4 img{
+	width: 45%;
+}
+.Aside{
+	width: 47%;
+	margin-left: 2%;
+}
+.Aside h1 {
+	font-size: 20px;
+	
+}
+.Aside img{
+	width: 16%;
+}
+.Tside{
+	width: 45%;
+	margin-top: 3%;
+	margin-left: 2%;
+}
+.Tside h1{
+	font-size: 17px;
+}
+.form5{
+	width: 99%;
+	display: flex;
+}
+.form5 img{
+	width: 45%;
+	margin-top: 3%;
+}
+.Tside img{
+	width: 18%;
+}
+
+
+
